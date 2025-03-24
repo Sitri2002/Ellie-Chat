@@ -1,0 +1,6 @@
+<ns0:speak xmlns:ns0="http://www.w3.org/2001/10/synthesis" version="1.0" xml:lang="en-US">
+    <ns0:voice name="en-US-AshleyNeural">
+        <ns0:lexicon uri="https://cvoiceprodusc.blob.core.windows.net/acc-public-files/49f1bcafe5274f27805c7a516d6a6360/b6a6d3bf-5caf-4a9e-b40a-c4b199f8878a.xml?skoid=85130dbe-2390-4897-a9e9-5c88bb59daff&amp;sktid=33e01921-4d64-4f8c-a055-5bdaffd5e33d&amp;skt=2025-01-10T10%3A07%3A02Z&amp;ske=2025-01-16T10%3A12%3A02Z&amp;sks=b&amp;skv=2023-11-03&amp;sv=2023-11-03&amp;st=2025-01-10T10%3A07%3A02Z&amp;se=2025-01-11T10%3A12%3A02Z&amp;sr=b&amp;sp=r&amp;sig=i946snJfb09aC%2FQvVoNsOv7POU899gLyzuyXK%2F7jhlQ%3D" />
+        <ns0:prosody pitch="+28.00%">I'll remember this chat for a long time...</ns0:prosody>
+    </ns0:voice>
+</ns0:speak>
